@@ -41,8 +41,14 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/284
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1243
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="Infantil", Latino | Cartoon Network 
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/50
+#EXTINF:-1,tvg logo="Latino | Nickelodeon 
+http://179.51.136.19:8000/play/a0q4/index.m3u8
+#EXTINF:-1,tvg logo="Latino | Canal 1
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1,tvg logo="Latino | Studio Universal
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",Latino | Cinecanal
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/73
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/640px-Cinelatino_logo.png",Latino | CineLatino
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/303
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png",Latino | Cinemax
@@ -70,7 +76,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/285
 #EXTINF:-1,tvg logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/560dfea6-13fc-45c5-abb5-0692213c6010/dfzfzqj-1b03debd-7ca7-4e46-ba21-3eaab4ebfead.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2MGRmZWE2LTEzZmMtNDVjNS1hYmI1LTA2OTIyMTNjNjAxMFwvZGZ6Znpxai0xYjAzZGViZC03Y2E3LTRlNDYtYmEyMS0zZWFhYjRlYmZlYWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uy6KE11GfwRmbpwUaS0Hkn-JYKb0eevlVvQjsX0USNk",Latino | Discovery World
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/59
 #EXTINF:-1,tvg logo="https://i.pinimg.com/originals/60/11/f4/6011f4f6ad9969379a9dc9b63dad8a35.png",Latino | Disney Channel
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/46
+http://201.230.121.186:8000/play/a0fb/index.m3u8
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Disney_Junior_2019_logo.png",Latino | Disney JR
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/44
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png",Latino | Distrito Comedia
@@ -125,6 +131,10 @@ http://tv.teleclub.xyz/club/server_1/deportes/goltv/index.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/golden/index.m3u8
 #EXTINF:-1,tvg logo="Latino | Golden Edge
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/84
+#EXTINF:-1,tvg logo="Latino | Bethel TV
+https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
+#EXTINF:-1,tvg logo="Latino | TV ONE
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1,tvg logo="Latino | Golden Plus
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/75
 #EXTINF:-1,tvg logo="Latino | Golden Premier
@@ -186,7 +196,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/86
 #EXTINF:-1 xui-id="263" tvg-id="" tvg-name="Latino |TV PERú" tvg-logo="http://192.168.80.50:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQxuD3eEEBDK8UqDheA8ELZy0FlzI1swN4r-oga6Yk7aA.png" group-title="NACIONALES",TV PERú
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="News",Latino | TV Peru Noticias
-https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="General",Latino | TV Peru Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1,tvg logo="Latino | USA Network
@@ -205,7 +215,10 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/39
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/74
 #EXTINF:-1,tvg logo="Latino | TNT Series
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/33
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/BEN10.png?raw=true" group-title="24_7",Latino | Ben 10
+#EXTINF:-1,tvg logo="Latino | Exitosa
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/
+clubxyz/teleclub/blob/main/BEN10.png?raw=true" group-title="24_7",Latino | Ben 10
 http://tv.teleclub.xyz/club/server_2/24_7/ben10/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/BOBSPONJA.png?raw=true" group-title="24_7",Latino | Bob Esponja
 http://tv.teleclub.xyz/club/server_2/24_7/bobesponja/index.m3u8
@@ -310,11 +323,13 @@ https://server100.betzta.com/lb/foxsportsar/index.m3u8?token=9c6e7e5dcf25f4aacfc
 #EXTINF:-1 xui-id="448" tvg-id="" tvg-name="Latino | DIRECTV SPORTS MOTOR" tvg-logo="" group-title="DEPORTES",DIRECTV SPORTS MOTOR
 https://bwfrzq.la10tv.com/lb/dsportsplus/index.m3u8?token=edaa7ad8e5e1c8db927ae19f2b4ca71a94e8a08f-5f-1732978801-1732942801
 #EXTINF:-1 xui-id="358" tvg-id="" tvg-name="Latino | La Tele HD" tvg-logo="http://192.168.80.50:80/images/xj7JYz0WF3xad6M0B2jDBpUDFBnnYOPgImNaRtWd3PI4n4Tw_dmA8wMTUlPTAHW2-APz6I0u40-xdCpGzleSJw.png" group-title="NACIONALES",PE La Tele HD
-https://rds3tf.desdeparaguay.net/latele/latele_int_baja/playlist.m3u8?k=b5ea4780dac4885ee739b16a49f88c55a489e170e8825a0f13bd6931c6d02e12&exp=1732944501
+https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
 #EXTINF:-1 xui-id="446" tvg-id="" tvg-name="Latino |WILLAX TV" tvg-logo="" group-title="Willax",Willax TV
 http://tv.teleclub.xyz/club/server_2/mundo/willaxtv/index.m3u8
 #EXTINF:-1 xui-id="446" tvg-id="" tvg-name="Latino | Latina HD" tvg-logo="" group-title="LATINA HD",LATINA HD
 https://jireh-2-hls-video-cl-entel.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream2/chunks.m3u8?dpssid=b2165252585666e105602141c&sid=ba5t1l1xb2112781566674a9394395c4&ndvc=0
+#EXTINF:-1,tvg logo="Latino | Latina Clásicos
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/VH1_2003_logo.svg/2560px-VH1_2003_logo.svg.png",Latino | VH1
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/625
 #EXTINF:-1,tvg logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/1280px-LOGO_VH1_CLASSIC.svg.png",Latino | VH1 Classics
